@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { Serie } from './serie';
-import { dataSeries } from './dataSeries';
 import { SerieService } from './serie.service';
 
 @Component({
